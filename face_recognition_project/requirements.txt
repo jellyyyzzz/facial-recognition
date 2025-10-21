@@ -1,5 +1,5 @@
 opencv-python
 face_recognition
+dlib
 mysql-connector-python
 numpy
-tkinter

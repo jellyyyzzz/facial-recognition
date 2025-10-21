@@ -10,9 +10,9 @@ from tkinter import ttk  # Import ttk for Treeview
 # MySQL connection details
 con = mys.connect(
     host='localhost',
-    user='your_username',
-    password='your_password',
-    database='facial_recognition_db'
+    user='root',
+    password='141007',
+    database='face_recognition'
 )
 
 # Function to retrieve all user details

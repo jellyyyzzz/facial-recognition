@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+
+# If you add build artifacts
+build/
+dist/
+*.egg-info/
